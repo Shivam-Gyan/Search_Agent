@@ -156,9 +156,9 @@ duckduckgo-search
 
 ## 🧑‍💻 Author
 
-> Built with ❤️ by \[Your Name]
-> GitHub: [@your-username](https://github.com/your-username)
-> LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+> Built with ❤️ by \[Shivam Gupta]
+> GitHub: [@Shivam-Gyan](https://github.com/Shivam-Gyan/Search_Agent)
+> LinkedIn: [@shivam-gupta19](https://www.linkedin.com/in/shivam-gupta19/)
 
 ---
 
