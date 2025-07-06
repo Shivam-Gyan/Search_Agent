@@ -55,10 +55,10 @@ if prompt:=st.chat_input(placeholder="what is machine learning?"):
     st.chat_message("user").write(prompt)
 
     # Initialize the Groq model
-    llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192", streaming=True , temperature=0.1)
+    llm = ChatGroq(groq_api_key=groq_api_key, model_name="meta-llama/llama-4-scout-17b-16e-instruct", streaming=True , temperature=0.1)
     tools = [arxiv, wikipedia, search]
 
-    search_agent = initialize_agent(tools=tools, llm=llm, agent_type=AgentType.OPENAI_FUNCTIONS,handling_parsing_errors=True, verbose=True)
+    search_agent = initialize_agent(tools=tools, llm=llm, agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,handling_parsing_errors=True, verbose=True)
 
     with st.chat_message("assistant"):
         st_cb = StreamlitCallbackHandler(st.container(),expand_new_thoughts=True)
