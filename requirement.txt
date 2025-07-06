@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain-community
+bs4
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+beautifulsoup4
+langchain_groq
+langchain_core
+arxiv
+wikipedia
+streamlit
+duckduckgo-search
