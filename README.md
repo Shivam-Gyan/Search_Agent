@@ -1,8 +1,3 @@
-Here is a complete `README.md` file in Markdown format for your **LangChain Search Agent with Streamlit** project, including all the details you've mentioned — project overview, tech stack, setup guide, image/video, and instructions.
-
----
-
-```markdown
 # 🤖 LangChain - Chat with Search (Wikipedia + Arxiv + DuckDuckGo)
 
 An interactive **AI-powered search assistant** built using **LangChain**, **Groq LLMs**, and **Streamlit**. This tool allows users to ask questions and get real-time responses pulled from:
