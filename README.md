@@ -16,6 +16,8 @@ An interactive **AI-powered search assistant** built using **LangChain**, **Groq
 ## 🖼️ Screenshot
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1ecOkOmGd-e1gI905UEvIC2CUhHTZ292h)
+![Interesting Conversation](https://drive.google.com/file/d/1U4oq0EztUnBhTIMfT7TY4QxgR9yasUUq/view?usp=sharing)
+
 
 ---
 
